@@ -1,0 +1,86 @@
+.retable{
+    width: 50%;
+}
+
+.resultA{
+    border: 4px solid #c5f0c5;
+    height: 188px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+.relayout{
+    margin-top: 2px;
+    width: 100%;
+    /* border: 1px solid red; */
+}
+.relayout tr td{
+    /* border: 1px solid red; */
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.lefttb{
+    padding-left: 35px;
+    width: 50%;
+    font-weight: 600;
+
+}
+
+
+.righttb{
+    font-weight: 600;
+    width: 50%;
+    text-align: center;
+}
+
+.righttbr{
+    width: 50%;
+    text-align: center;
+    padding-left: 16px;
+}
+
+.sym{
+    color: seagreen;
+}
+
+span{
+    font-weight: 600;
+}
+
+.btnevent{
+    width: 100%;
+    /* height: 100%; */
+    /* border: 1px solid red; */
+    margin-top: 23px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+.btncart{
+    width: 140px;
+    background-color: teal;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.mleft{
+    margin-left: 10px;
+    width: 140px;
+    background-color: teal;
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.relayout tr td a{
+    color: black;
+}
+
+.filtr{
+    font-size: 18px;
+}
+
+.filtrbtn{
+    cursor: pointer;
+}

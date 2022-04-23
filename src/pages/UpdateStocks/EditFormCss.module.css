@@ -1,0 +1,42 @@
+
+.frm{
+    width: 50%;
+    margin: 20px 290px;
+}
+
+.tble{
+    border: 0.9px solid black;
+    border-collapse: collapse;
+}
+
+.thh{
+    padding-left: 60px;
+}
+
+.trr{
+    border: 0.9px solid teal;
+}
+.firsth{
+    height: 29px;
+    background-color: #c5f0c5;
+}
+.tdd{
+    border: 0.9px solid black;
+    border-collapse: collapse;
+    /* width: 500px; */
+    /* padding: 18px 55px; */
+}
+.textareaa{
+    border: 0.4px solid black;
+    resize: none;
+    padding: 7px;
+}
+
+.btnn{
+    width: 100px;
+    height: 40px;
+    background-color: teal;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+}
